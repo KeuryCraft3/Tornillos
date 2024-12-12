@@ -1,0 +1,138 @@
+body {
+
+    background-image: url(fondoDeSesion1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+   }
+
+   body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(207, 207, 207);
+    }
+
+    .titulo {
+
+        color: white
+    }
+
+.titulo {
+
+ margin: -30 0 0 0;   
+ 
+}
+
+   .barra {
+    background-color: rgb(255, 255, 255);
+    width: 15%;
+    height: 55%;
+    padding: 45px;
+    border-radius: 10px;
+    margin: 85 0 10 0;
+     
+   }
+
+
+   .barra1 {
+    background-color: rgb(41, 128, 185);
+    width: 15%;
+    height: 55%;
+    padding: 45px;
+    border-radius: 10px;
+    margin: 85 10 10 10;
+    box-shadow: 0px 7px 5px rgba(180, 180, 180, 0.815);
+   }
+
+
+
+
+.nombre {
+margin: 180 0 0 565;
+position: absolute;
+font-size: large;
+
+}
+
+.nombre1 {
+margin: 140 0 0 595;
+position:absolute;
+
+}
+
+
+.contraseña {
+    margin: 220 0 0 580;
+    position: absolute;
+    }
+    
+    .contra {
+    margin: 260 0 0 565;
+    position:absolute;
+    font-size: large;
+    
+    }
+    
+
+   .barra1 {
+ width: 150;
+ height: 0;
+ margin: -85 0 0 -45;
+ padding: 71;
+   }
+
+   button {
+
+    position: absolute;
+    margin: -100 0 0 570;
+    width: 200px;
+    height: 40;
+    background-color: rgb(41, 128, 185);
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 7px 5px rgba(180, 180, 180, 0.815);
+    border-radius: 10px;
+
+   }
+
+.principal {
+
+  position: absolute;
+  margin: -63 0 0 580;
+
+}
+
+.crearCuenta {
+
+  position: absolute;
+  margin: -63 0 0 680;
+
+}
+
+.Tornillos {
+
+position: absolute;
+margin: -10 0 0 515;
+
+}
+
+.Tornillos2 {
+
+  position: absolute;
+  margin: -10 0 0 780;
+  
+  }
+
+  .Tornillos3 {
+
+    position: absolute;
+    margin: 393 0 0 775;
+    
+    }
+
+    .Tornillos4 {
+
+      position: absolute;
+      margin: 393 0 0 513;
+      
+      }

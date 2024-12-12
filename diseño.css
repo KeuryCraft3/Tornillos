@@ -1,0 +1,272 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(207, 207, 207);
+    }
+
+    .menu {
+        list-style: none;
+        padding: 0;
+        background: rgba(233, 233, 233, 0.699);
+        width: 90%;
+        max-width: 1000px;
+        margin: auto;
+    }
+
+    .menu li a{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        padding: 20px;
+        display: block;
+    }
+
+    .menu li{
+        display: inline-block;
+        text-align: center;
+    }
+
+    .menu li a:hover{
+        background-color: rgb(255, 255, 255);
+        
+    }
+
+
+    .barra {
+
+        
+     background-color: rgb(255, 255, 255);
+     width: 65%;
+     padding: 45px;
+     border-radius: 10px;
+      
+    }
+
+    .post-box {
+        
+     background-color: white;
+     padding: 0%;
+     border-radius: 10px;
+
+    }
+
+    .barra1 {
+
+        
+        background-color: white;
+        width: 65%;
+        padding: 45px;
+        border-radius: 10px;
+         
+       }
+   
+       .post-box1 {
+           
+        background-color: white;
+        padding: 0%;
+        border-radius: 10px;
+   
+       }
+
+        .barra2 {
+
+       background-color: #131e42;
+         width: 65%;
+          padding: 45px;
+             border-radius: 10px;
+           margin-left: 185px;
+           height: 200px;
+        }
+
+        .barra3 {
+
+            background-color: #131e42;
+            width: 90.5%;
+             padding: 85px;
+                border-radius: 10px;
+              margin-left: -45px;
+              height: 110px;
+        }  
+
+              .barra4 {
+
+                background-color: #131e42;
+                width: 127%;
+                 padding: 85px;
+                    border-radius: 10px;
+                  margin-left: -303px;
+                  height: 110px;  
+
+        }
+
+        .letra4 {
+
+            color: rgb(255, 255, 255);
+            margin: -30 -50 0 220;
+                         
+           }
+
+        .letra3 {
+
+         color: rgb(255, 255, 255);
+         margin: -30 -50 0 220;
+                      
+        }
+         
+
+        .letra2 {
+         color: rgb(255, 255, 255);
+         margin: 15 -40 0 260;
+        
+
+        }
+
+       .letra {
+
+        
+        color: white;
+        width: 35%;
+        border-radius: 10px;
+        padding: 10px;
+       
+     
+       }
+
+       .fondo1 {
+        background-color: rgb(53, 53, 53);
+        width: 101.2%
+       }
+       
+       .fondo1 {
+        border-radius: 0%;
+        margin-top: -1%;
+        margin-left: -18;
+        margin-right: -18;
+       }
+    
+
+       body {
+
+        background-image: url(fondo1.webp);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+
+       }
+          
+
+ .letra {
+
+    right: 400px;
+    margin-right: 600px;
+ 
+ }
+
+ .img1 {
+
+  height: 120px;
+  width: 120px;
+  margin-top: -110;
+  margin-left: 70px;
+
+ }
+
+ .img2 {
+
+    height: 250px;
+    width: 260px;
+    border-radius: 10px;
+    margin: 80px 10 -271px 208;
+   }
+
+   .img3 {
+
+    height: 240px;
+    width: 255px;
+    border-radius: 10px;
+    margin: 80px 10 -260px -20;
+   }
+   .img4 {
+
+    height: 240px;
+    width: 255px;
+    border-radius: 10px;
+    margin: 80px 10 -261px -278;
+   }
+
+  .img5 {
+
+    height: 150px;
+    width: 155px;
+    margin: 100px 10 -261px 88;
+    margin-top: 10;
+   }
+
+   .letra5 {
+
+    color: white;
+    width: 55%;
+    margin: -270 -50 0 -150;
+   }
+
+ 
+
+   .letra6 {
+
+        
+    color: white;
+    width: 0%;
+    margin: -165 -50 0 115;
+   }
+
+   .letra7 {
+
+        
+    color: white;
+    width: 55%;
+    margin: 5 -50 0 65;
+   }
+
+   .letra8 {
+
+        
+    color: white;
+    width: 55%;
+    margin: 15 -50 0 115;
+   }
+
+
+   .UltimaBarra {
+
+    background-color: #2b2c30;
+    width: 224.8%;
+     height: 330px;  
+    margin-left: -518;
+    margin-right: -118;
+   }
+
+  .Eslogan {
+
+   color: goldenrod;
+   position: absolute;
+   margin: -147 0 0 800;
+
+  }
+
+  .Tornillos {
+
+    position: absolute;
+    margin: -83 0 0 160;
+  }
+  
+  .Tornillos2 {
+
+    position: absolute;
+    margin: -83 0 0 1070;
+  }
+
+  .Copyright {
+
+    position: absolute;
+    margin: 145 0 0 -35;
+    
+    }

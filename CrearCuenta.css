@@ -1,0 +1,164 @@
+body {
+
+    background-image: url(FondoCrearCuenta2.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+   }
+
+   body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(207, 207, 207);
+    }
+
+.Cuadro1 {
+
+    background-color: rgb(255, 255, 255);
+    width: 15%;
+    height: 450px;
+    padding: 45px;
+    border-radius: 10px;
+    margin: 50px 50px -50px 50px;
+    border-radius: 10px;
+}
+
+.Cuadro2 {
+
+background-color: rgb(41, 128, 185);
+width: 295px;
+height: 150px;
+margin: -540px 0 0 0;
+border-radius: 10px;
+box-shadow: 0px 8px 6px rgba(180, 180, 180, 0.815);
+}
+
+.titulo1 {
+
+color: white;
+position: absolute;
+margin: 20px 600px; 
+
+}
+
+.nombre {
+
+position: absolute;
+margin: 50px -109px;
+padding: 5px;
+height: 15px;
+width: 205px;
+}
+
+.nombre1 {
+
+    margin: 10px 600px; 
+    position: absolute;
+
+}
+
+.apellido {
+margin: 120px -109px;
+position: absolute;
+padding: 5px;
+height: 15px;
+width: 205px;
+
+}
+
+.apellido1 {
+margin: 80px 600px;
+position: absolute;
+
+}
+
+.contraseña {
+margin: 190px -109px;
+position: absolute;
+padding: 5px;
+height: 15px;
+width: 205px;
+
+
+}
+
+.contraseña1 {
+margin: 150px 590px;
+position: absolute;
+
+}
+
+.repetir {
+
+position: absolute;
+margin: 260px -109px;
+position: absolute;
+padding: 5px;
+height: 15px;
+width: 205px;
+
+}
+
+.repetir1 {
+margin: 220px 580px;
+position: absolute;
+
+}
+
+.boton1{
+margin: 310px -108px;
+position: absolute;
+width: 218px;
+height: 40px;
+background-color: rgb(41, 128, 185);
+box-shadow: 0px 7px 5px rgba(170, 180, 180, 0.815);
+border-radius: 10px;
+}
+
+.boton1 {
+
+color: white;
+
+}
+
+.principal {
+    margin: 340px 590px;
+position: absolute;
+
+}
+
+.iniciarSesion {
+    margin: 340px 690px;
+position: absolute;
+margin-right: 10px;
+
+}
+
+.Tornillos {
+
+    position: absolute;
+    margin: -160px 0 0 517px;
+    
+    }
+
+    .Tornillos2 {
+
+        position: absolute;
+        margin: -160px 0 0 781px;
+        
+        }
+
+        .Tornillos3 {
+
+            position: absolute;
+            margin: 348px 0 0 779px;
+            
+            }
+
+            .Tornillos4 {
+
+                position: absolute;
+                margin: 348px 0 0 518px;
+                
+                }
